@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="639db7e8-11b7-4f17-8f9e-fe0fbb00010a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_6_Blocking_Input.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtoFConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FuelCosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HighorLow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
-    </list>
+    <list default="true" id="639db7e8-11b7-4f17-8f9e-fe0fbb00010a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +64,24 @@
       <updated>1718244869745</updated>
       <workItem from="1718244870800" duration="1627000" />
       <workItem from="1718290423090" duration="9650000" />
-      <workItem from="1718486510547" duration="397000" />
+      <workItem from="1718486510547" duration="710000" />
     </task>
+    <task id="LOCAL-00001" summary="initial comit">
+      <option name="closed" value="true" />
+      <created>1718487179932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718487179932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial comit" />
   </component>
 </project>
